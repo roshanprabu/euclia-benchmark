@@ -1,0 +1,15 @@
+Run-to-run stability, E1 on seed 101 (two independent runs, 120 accounts; run 2 has 120 predictions)
+
+field                agreement  Cohen kappa
+risk                     0.917        0.873
+driver                   0.950        0.933
+action                   0.950        0.937
+escalate_to_human        0.967        0.916
+
+metric             run 1   run 2
+macro_f1           0.652   0.662
+driver_acc         0.867   0.867
+action_match       0.783   0.758
+escalation_acc     0.833   0.833
+high_recall        0.527   0.564
+high_precision     0.935   0.969

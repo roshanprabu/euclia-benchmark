@@ -56,9 +56,11 @@ NEUTRAL_EMAILS = [
 ]
 
 
+MIX = "default"  # set via --mix; "uniform" gives every archetype equal weight (distribution-shift experiments)
+
 def pick_archetype(rng):
     names = list(ARCHETYPES)
-    weights = [ARCHETYPES[n][0] for n in names]
+    weights = [ARCHETYPES[n][0] for n in names] if MIX == "default" else [1.0] * len(names)
     return rng.choices(names, weights=weights, k=1)[0]
 
 
@@ -244,10 +246,12 @@ def main():
     p.add_argument("--noise", type=float, default=0.15)
     p.add_argument("--textpool", default=None, help="dir of pool*.json with independently written text")
     p.add_argument("--poolpart", choices=["a", "b"], default=None, help="use disjoint half of each pool (a=even idx, b=odd idx)")
+    p.add_argument("--mix", choices=["default", "uniform"], default="default")
     p.add_argument("--out", default=str(Path(__file__).parent / "accounts.json"))
     a = p.parse_args()
 
-    global POOL
+    global POOL, MIX
+    MIX = a.mix
     if a.textpool:
         POOL = {}
         for f in sorted(Path(a.textpool).glob('pool*.json')): POOL.update(json.load(open(f)))

@@ -1,0 +1,6 @@
+Supervised baselines: trained in-distribution vs trained on shifted data (uniform archetype mix, noise 0.30); mean over 3 eval seeds
+system                  training               macro_f1  high_recall high_precisi   driver_acc action_match escalation_a
+B4_gb_structured        in-distribution           0.788        0.582        0.780        0.719        0.694        0.728
+B4_gb_structured        shifted                   0.700        0.939        0.572        0.594        0.625        0.686
+B5_gb_structured_text   in-distribution           0.749        0.861        0.616        0.597        0.681        0.714
+B5_gb_structured_text   shifted                   0.752        0.867        0.618        0.614        0.597        0.678

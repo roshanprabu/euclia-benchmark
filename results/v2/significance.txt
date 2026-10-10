@@ -1,0 +1,21 @@
+comparison                              metric                A      B    diff   95% CI (paired bootstrap)   McNemar p
+E1_euclia vs L0_bare_llm                driver_acc        0.889  0.864  +0.025   [-0.003, +0.053]          0.12
+E1_euclia vs L0_bare_llm                action_match      0.822  0.775  +0.047   [+0.014, +0.081]          0.0076
+E1_euclia vs L0_bare_llm                escalation_acc    0.867  0.781  +0.086   [+0.047, +0.125]          4.7e-05
+E1_euclia vs L0_bare_llm                risk_macroF1      0.641  0.627  +0.014   [-0.023, +0.052]          (bootstrap only, 2,000)
+E1_euclia vs B3_health_score            driver_acc        0.889  0.631  +0.258   [+0.211, +0.306]          3.4e-24
+E1_euclia vs B3_health_score            action_match      0.822  0.594  +0.228   [+0.169, +0.289]          1.7e-12
+E1_euclia vs B3_health_score            escalation_acc    0.867  0.708  +0.158   [+0.103, +0.214]          9.8e-08
+E1_euclia vs B3_health_score            risk_macroF1      0.641  0.560  +0.082   [+0.026, +0.136]          (bootstrap only, 2,000)
+E1_euclia vs E2_euclia_structured       driver_acc        0.889  0.592  +0.297   [+0.250, +0.344]          3.4e-31
+E1_euclia vs E2_euclia_structured       action_match      0.822  0.489  +0.333   [+0.278, +0.389]          1e-26
+E1_euclia vs E2_euclia_structured       escalation_acc    0.867  0.600  +0.267   [+0.214, +0.319]          1.8e-20
+E1_euclia vs E2_euclia_structured       risk_macroF1      0.641  0.528  +0.113   [+0.061, +0.168]          (bootstrap only, 2,000)
+E1_euclia vs B4_gb_structured           driver_acc        0.889  0.719  +0.169   [+0.122, +0.217]          1.6e-11
+E1_euclia vs B4_gb_structured           action_match      0.822  0.694  +0.128   [+0.069, +0.186]          5.1e-05
+E1_euclia vs B4_gb_structured           escalation_acc    0.867  0.728  +0.139   [+0.083, +0.194]          2.5e-06
+E1_euclia vs B4_gb_structured           risk_macroF1      0.641  0.790  -0.149   [-0.206, -0.093]          (bootstrap only, 2,000)
+E1_euclia vs B5_gb_structured_text      driver_acc        0.889  0.597  +0.292   [+0.239, +0.344]          2.7e-24
+E1_euclia vs B5_gb_structured_text      action_match      0.822  0.681  +0.142   [+0.083, +0.200]          4e-06
+E1_euclia vs B5_gb_structured_text      escalation_acc    0.867  0.714  +0.153   [+0.097, +0.208]          3.7e-07
+E1_euclia vs B5_gb_structured_text      risk_macroF1      0.641  0.753  -0.111   [-0.167, -0.049]          (bootstrap only, 2,000)
