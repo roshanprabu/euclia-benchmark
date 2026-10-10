@@ -4,3 +4,5 @@ __pycache__/
 # manuscript source kept private until submission
 paper/Euclia_manuscript.docx
 paper/build_paper.js
+paper/Euclia_manuscript_IJSCI.docx
+paper/build_ijsci.py
