@@ -13,7 +13,7 @@ Synthetic benchmark and evaluation code for the study *Beyond Customer Success A
 | `src/` | Baselines, supervised baselines, agent prompt (`agent.py`), evaluation, robustness, validity and figure scripts |
 | `results/v2/` | Final tables, per-system predictions, raw LLM-agent outputs (`agent_raw/`), exploratory analyses |
 | `results/pilot_v2a_leaky/` | Discarded pilot run on a version of the generator that still leaked structure (kept for transparency) |
-| `docs/` | Scope, literature notes, paper draft |
+| `docs/` | Scope, literature notes, paper draft, [portfolio case study](docs/portfolio_case_study.md) |
 | `paper/` | Figures |
 
 Top-level `data/accounts*.json` and `results/*.json` are the earliest pilot (version 1, template text) and are superseded.
