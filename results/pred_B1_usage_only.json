@@ -1,0 +1,1602 @@
+{
+ "ACC-0001": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0002": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0003": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.004424778761061843,
+  "explanation": "rule: none"
+ },
+ "ACC-0004": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0005": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0006": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.4090419806243273,
+  "explanation": "rule: usage"
+ },
+ "ACC-0007": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0008": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0009": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0010": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.5707070707070707,
+  "explanation": "rule: usage"
+ },
+ "ACC-0011": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.12681912681912688,
+  "explanation": "rule: none"
+ },
+ "ACC-0012": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0013": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.5012594458438288,
+  "explanation": "rule: usage"
+ },
+ "ACC-0014": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0015": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0016": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.06733524355300857,
+  "explanation": "rule: none"
+ },
+ "ACC-0017": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0018": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0019": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0020": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0021": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0022": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.8198324022346368,
+  "explanation": "rule: usage"
+ },
+ "ACC-0023": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.44626168224299056,
+  "explanation": "rule: usage"
+ },
+ "ACC-0024": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0025": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0026": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0027": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.47760115606936415,
+  "explanation": "rule: usage"
+ },
+ "ACC-0028": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.013698630136986356,
+  "explanation": "rule: none"
+ },
+ "ACC-0029": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.7416918429003021,
+  "explanation": "rule: usage"
+ },
+ "ACC-0030": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0031": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.06868131868131866,
+  "explanation": "rule: none"
+ },
+ "ACC-0032": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.7411764705882353,
+  "explanation": "rule: usage"
+ },
+ "ACC-0033": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.007692307692307776,
+  "explanation": "rule: none"
+ },
+ "ACC-0034": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0035": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0036": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.26642335766423353,
+  "explanation": "rule: none"
+ },
+ "ACC-0037": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.11585365853658536,
+  "explanation": "rule: none"
+ },
+ "ACC-0038": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0039": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0040": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.5597269624573379,
+  "explanation": "rule: usage"
+ },
+ "ACC-0041": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.5550847457627119,
+  "explanation": "rule: usage"
+ },
+ "ACC-0042": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0043": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0044": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.14205607476635518,
+  "explanation": "rule: none"
+ },
+ "ACC-0045": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0046": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0047": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.06896551724137934,
+  "explanation": "rule: none"
+ },
+ "ACC-0048": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0049": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.04878048780487798,
+  "explanation": "rule: none"
+ },
+ "ACC-0050": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.19849246231155782,
+  "explanation": "rule: none"
+ },
+ "ACC-0051": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.6996681415929203,
+  "explanation": "rule: usage"
+ },
+ "ACC-0052": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.7675000000000001,
+  "explanation": "rule: usage"
+ },
+ "ACC-0053": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.13716814159292035,
+  "explanation": "rule: none"
+ },
+ "ACC-0054": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.24292452830188682,
+  "explanation": "rule: none"
+ },
+ "ACC-0055": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.18827160493827155,
+  "explanation": "rule: none"
+ },
+ "ACC-0056": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0057": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0058": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0059": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.026980482204362777,
+  "explanation": "rule: none"
+ },
+ "ACC-0060": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0061": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.028384279475982543,
+  "explanation": "rule: none"
+ },
+ "ACC-0062": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.16715116279069775,
+  "explanation": "rule: none"
+ },
+ "ACC-0063": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0064": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.07678355501813794,
+  "explanation": "rule: none"
+ },
+ "ACC-0065": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0066": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.07675438596491224,
+  "explanation": "rule: none"
+ },
+ "ACC-0067": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0068": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0069": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.15841584158415845,
+  "explanation": "rule: none"
+ },
+ "ACC-0070": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0071": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.09873949579831931,
+  "explanation": "rule: none"
+ },
+ "ACC-0072": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0073": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0074": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0075": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.10292326431181498,
+  "explanation": "rule: none"
+ },
+ "ACC-0076": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0077": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.08064516129032262,
+  "explanation": "rule: none"
+ },
+ "ACC-0078": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.6428571428571428,
+  "explanation": "rule: usage"
+ },
+ "ACC-0079": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.028469750889679735,
+  "explanation": "rule: none"
+ },
+ "ACC-0080": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0081": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.2871116225546606,
+  "explanation": "rule: none"
+ },
+ "ACC-0082": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0083": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.10586319218241036,
+  "explanation": "rule: none"
+ },
+ "ACC-0084": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.01851851851851849,
+  "explanation": "rule: none"
+ },
+ "ACC-0085": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.12389380530973448,
+  "explanation": "rule: none"
+ },
+ "ACC-0086": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.295774647887324,
+  "explanation": "rule: none"
+ },
+ "ACC-0087": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0088": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.533457249070632,
+  "explanation": "rule: usage"
+ },
+ "ACC-0089": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.1867704280155642,
+  "explanation": "rule: none"
+ },
+ "ACC-0090": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0091": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.06484375000000009,
+  "explanation": "rule: none"
+ },
+ "ACC-0092": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0093": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0094": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.5570866141732284,
+  "explanation": "rule: usage"
+ },
+ "ACC-0095": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.02517162471395873,
+  "explanation": "rule: none"
+ },
+ "ACC-0096": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.10839160839160833,
+  "explanation": "rule: none"
+ },
+ "ACC-0097": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.17297297297297298,
+  "explanation": "rule: none"
+ },
+ "ACC-0098": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.7185273159144894,
+  "explanation": "rule: usage"
+ },
+ "ACC-0099": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0100": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0101": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.7867528271405493,
+  "explanation": "rule: usage"
+ },
+ "ACC-0102": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.006756756756756799,
+  "explanation": "rule: none"
+ },
+ "ACC-0103": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0104": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.16568047337278113,
+  "explanation": "rule: none"
+ },
+ "ACC-0105": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0106": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.43181818181818177,
+  "explanation": "rule: usage"
+ },
+ "ACC-0107": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0108": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0109": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.18656716417910446,
+  "explanation": "rule: none"
+ },
+ "ACC-0110": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.17458100558659218,
+  "explanation": "rule: none"
+ },
+ "ACC-0111": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0722543352601156,
+  "explanation": "rule: none"
+ },
+ "ACC-0112": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0113": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0114": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.5432766615146831,
+  "explanation": "rule: usage"
+ },
+ "ACC-0115": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.4,
+  "explanation": "rule: usage"
+ },
+ "ACC-0116": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0971107544141252,
+  "explanation": "rule: none"
+ },
+ "ACC-0117": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.6457055214723926,
+  "explanation": "rule: usage"
+ },
+ "ACC-0118": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0119": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.16051136363636365,
+  "explanation": "rule: none"
+ },
+ "ACC-0120": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0121": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0122": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.1502079002079003,
+  "explanation": "rule: none"
+ },
+ "ACC-0123": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.18571428571428572,
+  "explanation": "rule: none"
+ },
+ "ACC-0124": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.4564606741573034,
+  "explanation": "rule: usage"
+ },
+ "ACC-0125": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.5,
+  "explanation": "rule: usage"
+ },
+ "ACC-0126": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0127": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.4804469273743016,
+  "explanation": "rule: usage"
+ },
+ "ACC-0128": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0129": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0130": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0131": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.05216095380029806,
+  "explanation": "rule: none"
+ },
+ "ACC-0132": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0133": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.21118012422360244,
+  "explanation": "rule: none"
+ },
+ "ACC-0134": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.05949656750572074,
+  "explanation": "rule: none"
+ },
+ "ACC-0135": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.6548387096774193,
+  "explanation": "rule: usage"
+ },
+ "ACC-0136": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.7706611570247934,
+  "explanation": "rule: usage"
+ },
+ "ACC-0137": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.5292887029288703,
+  "explanation": "rule: usage"
+ },
+ "ACC-0138": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.09205548549810838,
+  "explanation": "rule: none"
+ },
+ "ACC-0139": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0140": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0141": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0142": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.431875,
+  "explanation": "rule: usage"
+ },
+ "ACC-0143": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.11290322580645162,
+  "explanation": "rule: none"
+ },
+ "ACC-0144": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.011796733212341093,
+  "explanation": "rule: none"
+ },
+ "ACC-0145": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.015748031496062964,
+  "explanation": "rule: none"
+ },
+ "ACC-0146": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.021739130434782594,
+  "explanation": "rule: none"
+ },
+ "ACC-0147": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0148": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.12790697674418605,
+  "explanation": "rule: none"
+ },
+ "ACC-0149": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.494807121661721,
+  "explanation": "rule: usage"
+ },
+ "ACC-0150": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.020408163265306034,
+  "explanation": "rule: none"
+ },
+ "ACC-0151": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0152": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0153": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0154": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0155": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0156": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.09418282548476453,
+  "explanation": "rule: none"
+ },
+ "ACC-0157": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.02941176470588236,
+  "explanation": "rule: none"
+ },
+ "ACC-0158": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0254988913525499,
+  "explanation": "rule: none"
+ },
+ "ACC-0159": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.1390845070422536,
+  "explanation": "rule: none"
+ },
+ "ACC-0160": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.16521739130434787,
+  "explanation": "rule: none"
+ },
+ "ACC-0161": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0162": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.1775067750677507,
+  "explanation": "rule: none"
+ },
+ "ACC-0163": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0164": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.04339622641509433,
+  "explanation": "rule: none"
+ },
+ "ACC-0165": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0166": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0167": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.12384105960264902,
+  "explanation": "rule: none"
+ },
+ "ACC-0168": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0169": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0170": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.082286432160804,
+  "explanation": "rule: none"
+ },
+ "ACC-0171": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.43193069306930687,
+  "explanation": "rule: usage"
+ },
+ "ACC-0172": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0173": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.010442260442260376,
+  "explanation": "rule: none"
+ },
+ "ACC-0174": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0175": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.5138339920948616,
+  "explanation": "rule: usage"
+ },
+ "ACC-0176": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.021324863883847467,
+  "explanation": "rule: none"
+ },
+ "ACC-0177": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0178": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.17500000000000004,
+  "explanation": "rule: none"
+ },
+ "ACC-0179": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.025700934579439227,
+  "explanation": "rule: none"
+ },
+ "ACC-0180": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.46169354838709675,
+  "explanation": "rule: usage"
+ },
+ "ACC-0181": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.14693446088794926,
+  "explanation": "rule: none"
+ },
+ "ACC-0182": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0183": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0184": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0185": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0186": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0187": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0188": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.09438377535101405,
+  "explanation": "rule: none"
+ },
+ "ACC-0189": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0190": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0191": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0192": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0193": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0894428152492669,
+  "explanation": "rule: none"
+ },
+ "ACC-0194": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.02348993288590595,
+  "explanation": "rule: none"
+ },
+ "ACC-0195": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0196": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0197": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.11794019933554811,
+  "explanation": "rule: none"
+ },
+ "ACC-0198": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0199": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0200": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 0.6661211129296236,
+  "explanation": "rule: usage"
+ }
+}

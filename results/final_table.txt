@@ -1,0 +1,18 @@
+system                accuracy    macro_f1 high_recall high_precis precision@1        ndcg  driver_acc action_matc escalation_
+B1_usage_only            0.550       0.341       0.250       0.636       1.000       0.918       0.550       0.445       0.690
+B2_billing_only          0.615       0.380       0.262       1.000       1.000       0.924       0.615       0.510       0.690
+B3_health_score          0.670       0.606       0.417       0.761       0.900       0.950       0.750       0.645       0.690
+E1_euclia                0.850       0.759       0.690       0.967       1.000       0.994       0.960       0.915       0.925
+E2_euclia_structured       0.635       0.566       0.429       0.857       1.000       0.960       0.660       0.520       0.605
+
+Risk-level accuracy by archetype
+archetype                 B1_usage_o  B2_billing  B3_health_   E1_euclia  E2_euclia_
+billing_risk                    0.00        1.00        0.68        0.59        0.64
+champion_left                   0.00        0.00        0.00        0.27        0.00
+competitor_eval                 0.00        0.00        0.00        0.50        0.12
+expansion_candidate             1.00        1.00        1.00        1.00        0.95
+frustrated_power_user           0.00        0.00        0.00        1.00        0.00
+healthy                         1.00        1.00        0.94        0.97        0.79
+onboarding_stalled              0.00        0.00        0.93        0.87        0.80
+seasonal_dip                    0.00        1.00        0.00        1.00        0.42
+silent_disengager               1.00        0.00        0.95        0.95        0.95

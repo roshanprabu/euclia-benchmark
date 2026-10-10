@@ -1,0 +1,962 @@
+{
+ "ACC-0001": {
+  "risk": "high",
+  "driver": "competitive",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.9548691321779246,
+  "explanation": "supervised"
+ },
+ "ACC-0002": {
+  "risk": "low",
+  "driver": "competitive",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 0.4129502006117203,
+  "explanation": "supervised"
+ },
+ "ACC-0003": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": true,
+  "score": 0.519077769858765,
+  "explanation": "supervised"
+ },
+ "ACC-0004": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 1.7715289312365976,
+  "explanation": "supervised"
+ },
+ "ACC-0005": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0778604662265578,
+  "explanation": "supervised"
+ },
+ "ACC-0006": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.8257562016829377,
+  "explanation": "supervised"
+ },
+ "ACC-0007": {
+  "risk": "high",
+  "driver": "relationship",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.8727754038041418,
+  "explanation": "supervised"
+ },
+ "ACC-0008": {
+  "risk": "high",
+  "driver": "relationship",
+  "action": "human_escalation",
+  "escalate_to_human": false,
+  "score": 1.3353907702769718,
+  "explanation": "supervised"
+ },
+ "ACC-0009": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 1.9677449633788666,
+  "explanation": "supervised"
+ },
+ "ACC-0010": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": true,
+  "score": 1.9813041171911152,
+  "explanation": "supervised"
+ },
+ "ACC-0011": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.285708030733592,
+  "explanation": "supervised"
+ },
+ "ACC-0012": {
+  "risk": "low",
+  "driver": "support",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.5571225348500995,
+  "explanation": "supervised"
+ },
+ "ACC-0013": {
+  "risk": "high",
+  "driver": "relationship",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 1.8256644736859597,
+  "explanation": "supervised"
+ },
+ "ACC-0014": {
+  "risk": "low",
+  "driver": "competitive",
+  "action": "no_action",
+  "escalate_to_human": true,
+  "score": 0.47243114400539427,
+  "explanation": "supervised"
+ },
+ "ACC-0015": {
+  "risk": "low",
+  "driver": "none",
+  "action": "upsell_outreach",
+  "escalate_to_human": true,
+  "score": 0.16072865712090348,
+  "explanation": "supervised"
+ },
+ "ACC-0016": {
+  "risk": "high",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": true,
+  "score": 1.1691460304118582,
+  "explanation": "supervised"
+ },
+ "ACC-0017": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.5591798285676159,
+  "explanation": "supervised"
+ },
+ "ACC-0018": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.38155010803307665,
+  "explanation": "supervised"
+ },
+ "ACC-0019": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.9907365667749704,
+  "explanation": "supervised"
+ },
+ "ACC-0020": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.1779674527512524,
+  "explanation": "supervised"
+ },
+ "ACC-0021": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.9895085532126158,
+  "explanation": "supervised"
+ },
+ "ACC-0022": {
+  "risk": "high",
+  "driver": "support",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.6928438184505297,
+  "explanation": "supervised"
+ },
+ "ACC-0023": {
+  "risk": "high",
+  "driver": "relationship",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.8624129225533181,
+  "explanation": "supervised"
+ },
+ "ACC-0024": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": true,
+  "score": 0.6469636151858059,
+  "explanation": "supervised"
+ },
+ "ACC-0025": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": true,
+  "score": 1.9884129724176947,
+  "explanation": "supervised"
+ },
+ "ACC-0026": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.47937774622401963,
+  "explanation": "supervised"
+ },
+ "ACC-0027": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 1.9546382096954933,
+  "explanation": "supervised"
+ },
+ "ACC-0028": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.2574090131192214,
+  "explanation": "supervised"
+ },
+ "ACC-0029": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.23271447229709494,
+  "explanation": "supervised"
+ },
+ "ACC-0030": {
+  "risk": "medium",
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "score": 1.0002161931309612,
+  "explanation": "supervised"
+ },
+ "ACC-0031": {
+  "risk": "medium",
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "score": 1.0000796849792122,
+  "explanation": "supervised"
+ },
+ "ACC-0032": {
+  "risk": "high",
+  "driver": "support",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.9933253350037743,
+  "explanation": "supervised"
+ },
+ "ACC-0033": {
+  "risk": "medium",
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "score": 1.0000529152669575,
+  "explanation": "supervised"
+ },
+ "ACC-0034": {
+  "risk": "high",
+  "driver": "relationship",
+  "action": "human_escalation",
+  "escalate_to_human": false,
+  "score": 1.3182779611120898,
+  "explanation": "supervised"
+ },
+ "ACC-0035": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 1.150271954871569,
+  "explanation": "supervised"
+ },
+ "ACC-0036": {
+  "risk": "high",
+  "driver": "relationship",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.9744235766404123,
+  "explanation": "supervised"
+ },
+ "ACC-0037": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": true,
+  "score": 0.12163538497876214,
+  "explanation": "supervised"
+ },
+ "ACC-0038": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.9342269140895352,
+  "explanation": "supervised"
+ },
+ "ACC-0039": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.9539531848962397,
+  "explanation": "supervised"
+ },
+ "ACC-0040": {
+  "risk": "high",
+  "driver": "competitive",
+  "action": "human_escalation",
+  "escalate_to_human": false,
+  "score": 1.5356657592724412,
+  "explanation": "supervised"
+ },
+ "ACC-0041": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.24916138301964735,
+  "explanation": "supervised"
+ },
+ "ACC-0042": {
+  "risk": "high",
+  "driver": "competitive",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.248562190808759,
+  "explanation": "supervised"
+ },
+ "ACC-0043": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.9945440869673918,
+  "explanation": "supervised"
+ },
+ "ACC-0044": {
+  "risk": "high",
+  "driver": "relationship",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.889651248305355,
+  "explanation": "supervised"
+ },
+ "ACC-0045": {
+  "risk": "low",
+  "driver": "none",
+  "action": "upsell_outreach",
+  "escalate_to_human": true,
+  "score": 0.7558188766874265,
+  "explanation": "supervised"
+ },
+ "ACC-0046": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.9475762349578931,
+  "explanation": "supervised"
+ },
+ "ACC-0047": {
+  "risk": "high",
+  "driver": "support",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 1.6303630685901145,
+  "explanation": "supervised"
+ },
+ "ACC-0048": {
+  "risk": "low",
+  "driver": "none",
+  "action": "upsell_outreach",
+  "escalate_to_human": true,
+  "score": 0.05695300716287951,
+  "explanation": "supervised"
+ },
+ "ACC-0049": {
+  "risk": "high",
+  "driver": "support",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.990076959321604,
+  "explanation": "supervised"
+ },
+ "ACC-0050": {
+  "risk": "high",
+  "driver": "none",
+  "action": "human_escalation",
+  "escalate_to_human": false,
+  "score": 1.3170224122983394,
+  "explanation": "supervised"
+ },
+ "ACC-0051": {
+  "risk": "medium",
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "score": 1.0005050321591018,
+  "explanation": "supervised"
+ },
+ "ACC-0052": {
+  "risk": "high",
+  "driver": "competitive",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.9793929652612046,
+  "explanation": "supervised"
+ },
+ "ACC-0053": {
+  "risk": "medium",
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "score": 1.000039272477846,
+  "explanation": "supervised"
+ },
+ "ACC-0054": {
+  "risk": "high",
+  "driver": "support",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.3866359092354315,
+  "explanation": "supervised"
+ },
+ "ACC-0055": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 1.9896919843504837,
+  "explanation": "supervised"
+ },
+ "ACC-0056": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.19855139063151434,
+  "explanation": "supervised"
+ },
+ "ACC-0057": {
+  "risk": "low",
+  "driver": "none",
+  "action": "upsell_outreach",
+  "escalate_to_human": true,
+  "score": 0.07885116794705026,
+  "explanation": "supervised"
+ },
+ "ACC-0058": {
+  "risk": "medium",
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "score": 1.0004140775246766,
+  "explanation": "supervised"
+ },
+ "ACC-0059": {
+  "risk": "low",
+  "driver": "none",
+  "action": "upsell_outreach",
+  "escalate_to_human": true,
+  "score": 0.23552629308743409,
+  "explanation": "supervised"
+ },
+ "ACC-0060": {
+  "risk": "low",
+  "driver": "competitive",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 0.9608651614591688,
+  "explanation": "supervised"
+ },
+ "ACC-0061": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.9937886505752869,
+  "explanation": "supervised"
+ },
+ "ACC-0062": {
+  "risk": "medium",
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "score": 0.9997788900806784,
+  "explanation": "supervised"
+ },
+ "ACC-0063": {
+  "risk": "low",
+  "driver": "none",
+  "action": "human_escalation",
+  "escalate_to_human": false,
+  "score": 0.8297443077725241,
+  "explanation": "supervised"
+ },
+ "ACC-0064": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.47058509193797304,
+  "explanation": "supervised"
+ },
+ "ACC-0065": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.5003408494023752,
+  "explanation": "supervised"
+ },
+ "ACC-0066": {
+  "risk": "high",
+  "driver": "relationship",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.8534299776639576,
+  "explanation": "supervised"
+ },
+ "ACC-0067": {
+  "risk": "medium",
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": true,
+  "score": 1.0000518462138654,
+  "explanation": "supervised"
+ },
+ "ACC-0068": {
+  "risk": "high",
+  "driver": "none",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.2251930673406053,
+  "explanation": "supervised"
+ },
+ "ACC-0069": {
+  "risk": "low",
+  "driver": "relationship",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 0.5599866224235529,
+  "explanation": "supervised"
+ },
+ "ACC-0070": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.258689043422421,
+  "explanation": "supervised"
+ },
+ "ACC-0071": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": true,
+  "score": 0.23500857836347064,
+  "explanation": "supervised"
+ },
+ "ACC-0072": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.19064861224861107,
+  "explanation": "supervised"
+ },
+ "ACC-0073": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.9930702752831346,
+  "explanation": "supervised"
+ },
+ "ACC-0074": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": true,
+  "score": 0.05576350677726109,
+  "explanation": "supervised"
+ },
+ "ACC-0075": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.14706304495303046,
+  "explanation": "supervised"
+ },
+ "ACC-0076": {
+  "risk": "low",
+  "driver": "relationship",
+  "action": "no_action",
+  "escalate_to_human": true,
+  "score": 0.7682182804182356,
+  "explanation": "supervised"
+ },
+ "ACC-0077": {
+  "risk": "high",
+  "driver": "relationship",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 1.0484921476500195,
+  "explanation": "supervised"
+ },
+ "ACC-0078": {
+  "risk": "high",
+  "driver": "support",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.6754688324285856,
+  "explanation": "supervised"
+ },
+ "ACC-0079": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.36883412279761024,
+  "explanation": "supervised"
+ },
+ "ACC-0080": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.9726972054452125,
+  "explanation": "supervised"
+ },
+ "ACC-0081": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.9710698507450557,
+  "explanation": "supervised"
+ },
+ "ACC-0082": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": true,
+  "score": 0.2391006195726499,
+  "explanation": "supervised"
+ },
+ "ACC-0083": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 1.9597547949358718,
+  "explanation": "supervised"
+ },
+ "ACC-0084": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": true,
+  "score": 0.290707423050593,
+  "explanation": "supervised"
+ },
+ "ACC-0085": {
+  "risk": "high",
+  "driver": "relationship",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.8977161522271722,
+  "explanation": "supervised"
+ },
+ "ACC-0086": {
+  "risk": "high",
+  "driver": "relationship",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 1.9718180386423532,
+  "explanation": "supervised"
+ },
+ "ACC-0087": {
+  "risk": "medium",
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "score": 0.9999529878688903,
+  "explanation": "supervised"
+ },
+ "ACC-0088": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 1.8263237577307943,
+  "explanation": "supervised"
+ },
+ "ACC-0089": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.2447622495442064,
+  "explanation": "supervised"
+ },
+ "ACC-0090": {
+  "risk": "high",
+  "driver": "support",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.0872687991079124,
+  "explanation": "supervised"
+ },
+ "ACC-0091": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 1.6052050479716926,
+  "explanation": "supervised"
+ },
+ "ACC-0092": {
+  "risk": "high",
+  "driver": "support",
+  "action": "upsell_outreach",
+  "escalate_to_human": true,
+  "score": 1.004811914101823,
+  "explanation": "supervised"
+ },
+ "ACC-0093": {
+  "risk": "high",
+  "driver": "competitive",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.966011728373671,
+  "explanation": "supervised"
+ },
+ "ACC-0094": {
+  "risk": "medium",
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "score": 0.9999031501280139,
+  "explanation": "supervised"
+ },
+ "ACC-0095": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.9939278649695633,
+  "explanation": "supervised"
+ },
+ "ACC-0096": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.997903308412619,
+  "explanation": "supervised"
+ },
+ "ACC-0097": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 1.4489531810914429,
+  "explanation": "supervised"
+ },
+ "ACC-0098": {
+  "risk": "high",
+  "driver": "none",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.7854615587531597,
+  "explanation": "supervised"
+ },
+ "ACC-0099": {
+  "risk": "medium",
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "score": 1.0006696196846385,
+  "explanation": "supervised"
+ },
+ "ACC-0100": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 1.8381366585081587,
+  "explanation": "supervised"
+ },
+ "ACC-0101": {
+  "risk": "high",
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "score": 1.9159840608046703,
+  "explanation": "supervised"
+ },
+ "ACC-0102": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": true,
+  "score": 0.7610882908111214,
+  "explanation": "supervised"
+ },
+ "ACC-0103": {
+  "risk": "high",
+  "driver": "relationship",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 1.0962893123218522,
+  "explanation": "supervised"
+ },
+ "ACC-0104": {
+  "risk": "low",
+  "driver": "none",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 0.6183315283768315,
+  "explanation": "supervised"
+ },
+ "ACC-0105": {
+  "risk": "medium",
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "score": 1.00078981897163,
+  "explanation": "supervised"
+ },
+ "ACC-0106": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": true,
+  "score": 0.7332339015611773,
+  "explanation": "supervised"
+ },
+ "ACC-0107": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": true,
+  "score": 0.16251603668479184,
+  "explanation": "supervised"
+ },
+ "ACC-0108": {
+  "risk": "low",
+  "driver": "none",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 0.8683390614645151,
+  "explanation": "supervised"
+ },
+ "ACC-0109": {
+  "risk": "low",
+  "driver": "support",
+  "action": "upsell_outreach",
+  "escalate_to_human": true,
+  "score": 0.36012107748490574,
+  "explanation": "supervised"
+ },
+ "ACC-0110": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.10257601943895513,
+  "explanation": "supervised"
+ },
+ "ACC-0111": {
+  "risk": "high",
+  "driver": "relationship",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.7974756751285945,
+  "explanation": "supervised"
+ },
+ "ACC-0112": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.3144126478552619,
+  "explanation": "supervised"
+ },
+ "ACC-0113": {
+  "risk": "medium",
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "score": 0.997589540275652,
+  "explanation": "supervised"
+ },
+ "ACC-0114": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.9596893437514082,
+  "explanation": "supervised"
+ },
+ "ACC-0115": {
+  "risk": "high",
+  "driver": "competitive",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.9474527059493882,
+  "explanation": "supervised"
+ },
+ "ACC-0116": {
+  "risk": "high",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 1.1305158166314493,
+  "explanation": "supervised"
+ },
+ "ACC-0117": {
+  "risk": "low",
+  "driver": "none",
+  "action": "human_escalation",
+  "escalate_to_human": false,
+  "score": 0.9762779553163757,
+  "explanation": "supervised"
+ },
+ "ACC-0118": {
+  "risk": "high",
+  "driver": "competitive",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.913723870963767,
+  "explanation": "supervised"
+ },
+ "ACC-0119": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.1585389802443565,
+  "explanation": "supervised"
+ },
+ "ACC-0120": {
+  "risk": "high",
+  "driver": "support",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "score": 1.5042597188344196,
+  "explanation": "supervised"
+ }
+}

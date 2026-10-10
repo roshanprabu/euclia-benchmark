@@ -1,0 +1,7 @@
+EXPLORATORY (post-hoc rule, derived after seeing results; not a pre-registered test)
+Rule: escalate if model flag is true OR driver in {relationship, competitive, support} OR action=='upsell_outreach'
+
+L0_bare_llm  model flag only                accuracy 0.781  recall 0.486  precision 0.671
+L0_bare_llm  with forced-escalation rule    accuracy 0.872  recall 0.857  precision 0.744
+E1_euclia    model flag only                accuracy 0.867  recall 0.819  precision 0.748
+E1_euclia    with forced-escalation rule    accuracy 0.875  recall 0.867  precision 0.746

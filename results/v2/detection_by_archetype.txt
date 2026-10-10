@@ -1,0 +1,39 @@
+Among the 'high' risk accounts: share flagged as NOT low (medium/high) | correct driver | escalated to human
+system                    flagged  driver ok  escalated
+B3_health_score              0.58       0.50       0.00
+B4_gb_structured             0.58       0.47       0.06
+B5_gb_structured_text        0.86       0.58       0.38
+L0_bare_llm                  0.91       0.90       0.45
+E2_euclia_structured         0.56       0.50       0.24
+E1_euclia                    0.92       0.87       0.51
+
+Text-only archetypes: flagged-not-low / driver correct
+  champion_left
+     B3_health_score          flagged 0.17  driver 0.00
+     B4_gb_structured         flagged 0.33  driver 0.00
+     B5_gb_structured_text    flagged 0.62  driver 0.29
+     L0_bare_llm              flagged 0.67  driver 0.67
+     E2_euclia_structured     flagged 0.12  driver 0.04
+     E1_euclia                flagged 0.71  driver 0.50
+  competitor_eval
+     B3_health_score          flagged 0.10  driver 0.00
+     B4_gb_structured         flagged 0.13  driver 0.00
+     B5_gb_structured_text    flagged 0.65  driver 0.16
+     L0_bare_llm              flagged 0.77  driver 0.74
+     E2_euclia_structured     flagged 0.06  driver 0.00
+     E1_euclia                flagged 0.84  driver 0.77
+  frustrated_power_user
+     B3_health_score          flagged 0.30  driver 0.10
+     B4_gb_structured         flagged 0.17  driver 0.00
+     B5_gb_structured_text    flagged 0.93  driver 0.23
+     L0_bare_llm              flagged 1.00  driver 0.97
+     E2_euclia_structured     flagged 0.23  driver 0.13
+     E1_euclia                flagged 1.00  driver 0.90
+
+False-alarm rate on low-risk accounts (flagged high):
+  B3_health_score          0.16
+  B4_gb_structured         0.16
+  B5_gb_structured_text    0.53
+  L0_bare_llm              0.00
+  E2_euclia_structured     0.07
+  E1_euclia                0.01

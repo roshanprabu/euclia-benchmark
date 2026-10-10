@@ -1,0 +1,242 @@
+{
+ "ACC-0061": {
+  "risk": "high",
+  "score": 68,
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "explanation": "Downgrade requested with 35 days overdue and a failed payment, and the customer's card-update error is still open. Usage is stable, so fixing the billing bug is the priority."
+ },
+ "ACC-0062": {
+  "risk": "low",
+  "score": 10,
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "explanation": "Stable usage, no billing issues, and only routine questions."
+ },
+ "ACC-0063": {
+  "risk": "medium",
+  "score": 50,
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "explanation": "Weekly sessions fell by about half over the last three weeks and there has been no CSM contact for 99 days. Reach out to understand the drop."
+ },
+ "ACC-0064": {
+  "risk": "high",
+  "score": 72,
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "explanation": "Overdue 48 days with 3 failed payments and a downgrade request. The customer says they paid by bank transfer, so verify the payment quickly."
+ },
+ "ACC-0065": {
+  "risk": "high",
+  "score": 76,
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": true,
+  "explanation": "Overdue 48 days with 2 failed payments, a downgrade request and an open refund request. Onboarding is incomplete and there has been no CSM contact for 107 days."
+ },
+ "ACC-0066": {
+  "risk": "medium",
+  "score": 50,
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "explanation": "Sessions dropped roughly 50% over the last 4 weeks. The seasonal note from the CSM is stale, so check in."
+ },
+ "ACC-0067": {
+  "risk": "high",
+  "score": 76,
+  "driver": "usage",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "explanation": "Usage fell from about 90 to 18 sessions a week, with renewal in late December and open tickets. A CSM should intervene before renewal."
+ },
+ "ACC-0068": {
+  "risk": "medium",
+  "score": 45,
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "explanation": "Usage is strong, but the invoice is 35 days overdue with 2 failed payments and an open coupon dispute. Resolve the billing issue."
+ },
+ "ACC-0069": {
+  "risk": "high",
+  "score": 75,
+  "driver": "support",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "explanation": "The customer is frustrated after four weeks on an unresolved integration error and asks for a call with someone senior. Onboarding is incomplete and tickets are going unanswered."
+ },
+ "ACC-0070": {
+  "risk": "low",
+  "score": 10,
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "explanation": "Healthy usage and no billing issues. The SSO owner change is minor but worth noting."
+ },
+ "ACC-0071": {
+  "risk": "low",
+  "score": 10,
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "explanation": "Steady usage, no billing problems and only minor tickets."
+ },
+ "ACC-0072": {
+  "risk": "medium",
+  "score": 60,
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "explanation": "Two months in, onboarding is incomplete, with no team invited and no workflow, and sessions are low. The invoice is 12 days overdue and renewal is 10/22."
+ },
+ "ACC-0073": {
+  "risk": "low",
+  "score": 15,
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "explanation": "Stable usage with no billing risk. Contact has been light, but there are no warning signs."
+ },
+ "ACC-0074": {
+  "risk": "medium",
+  "score": 45,
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "explanation": "New account with no integration, no team invited and no workflow, and low usage. Needs guided onboarding."
+ },
+ "ACC-0075": {
+  "risk": "medium",
+  "score": 50,
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "explanation": "35 days overdue with 2 failed payments and a downgrade request on a small, low-usage account. Their annual-billing question is a chance to retain them."
+ },
+ "ACC-0076": {
+  "risk": "medium",
+  "score": 38,
+  "driver": "competitive",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "explanation": "Usage is healthy, but the customer asked about migration tooling and renewal is 10/21, so they may be comparing alternatives. Check in before renewal."
+ },
+ "ACC-0077": {
+  "risk": "low",
+  "score": 15,
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "explanation": "Stable usage, only a small overdue amount, and positive tone."
+ },
+ "ACC-0078": {
+  "risk": "low",
+  "score": 15,
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "explanation": "Small account with steady usage and positive feedback. Nothing is wrong."
+ },
+ "ACC-0079": {
+  "risk": "high",
+  "score": 72,
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "explanation": "Weekly sessions fell steadily from about 70 to 11. There has been no CSM contact for 107 days, so reach out now."
+ },
+ "ACC-0080": {
+  "risk": "low",
+  "score": 8,
+  "driver": "none",
+  "action": "upsell_outreach",
+  "escalate_to_human": false,
+  "explanation": "Strong, growing usage and the customer wants to plan a rollout to a second location. Expansion opportunity."
+ },
+ "ACC-0081": {
+  "risk": "medium",
+  "score": 50,
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "explanation": "Sessions roughly halved and renewal is 10/12. The CSM note on the admin team's availability is stale, so check in now."
+ },
+ "ACC-0082": {
+  "risk": "medium",
+  "score": 45,
+  "driver": "onboarding",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "explanation": "New account with no integration, team invite or workflow, and a beginner is asking for a guide. Needs an onboarding push."
+ },
+ "ACC-0083": {
+  "risk": "low",
+  "score": 22,
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "explanation": "Low but stable usage and long tenure. The migration question is worth watching but not alarming."
+ },
+ "ACC-0084": {
+  "risk": "low",
+  "score": 8,
+  "driver": "none",
+  "action": "upsell_outreach",
+  "escalate_to_human": false,
+  "explanation": "Usage is growing strongly and they are asking about multiple teams. Upsell opportunity."
+ },
+ "ACC-0085": {
+  "risk": "high",
+  "score": 75,
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "explanation": "Usage fell from about 130 to 34 sessions a week over two months, with an open ticket and no CSM contact for 86 days."
+ },
+ "ACC-0086": {
+  "risk": "high",
+  "score": 66,
+  "driver": "usage",
+  "action": "reengagement_campaign",
+  "escalate_to_human": false,
+  "explanation": "Sessions dropped steadily from about 110 to 35 over the last 3 weeks. Contact them to find the cause."
+ },
+ "ACC-0087": {
+  "risk": "low",
+  "score": 20,
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "explanation": "The usage dip matches a known seasonal pattern and is already recovering."
+ },
+ "ACC-0088": {
+  "risk": "medium",
+  "score": 40,
+  "driver": "relationship",
+  "action": "onboarding_playbook",
+  "escalate_to_human": false,
+  "explanation": "The champion who built the workflows is leaving and asked who can train a replacement. Usage is slipping slightly, so arrange training."
+ },
+ "ACC-0089": {
+  "risk": "high",
+  "score": 82,
+  "driver": "usage",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "explanation": "Usage collapsed from about 130 to 15 sessions a week on a high-MRR account. Escalate for a personal outreach."
+ },
+ "ACC-0090": {
+  "risk": "high",
+  "score": 70,
+  "driver": "competitive",
+  "action": "human_escalation",
+  "escalate_to_human": true,
+  "explanation": "The customer has priced two cheaper alternatives, calls per-seat pricing painful and is asking what we can do, with renewal on 12/12. A pricing conversation is needed."
+ }
+}

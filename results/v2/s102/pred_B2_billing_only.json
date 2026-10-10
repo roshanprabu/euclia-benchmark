@@ -1,0 +1,962 @@
+{
+ "ACC-0001": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0002": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0003": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0004": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0005": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0006": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0007": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0008": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.0,
+  "explanation": "rule: billing"
+ },
+ "ACC-0009": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0010": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0011": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0012": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0013": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0014": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0015": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0016": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0017": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0018": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0019": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0020": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.0,
+  "explanation": "rule: billing"
+ },
+ "ACC-0021": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0022": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0023": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0024": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0025": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0026": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0027": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0028": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0029": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0030": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0031": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0032": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0033": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0034": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0035": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.0,
+  "explanation": "rule: billing"
+ },
+ "ACC-0036": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0037": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0038": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0039": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0040": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0041": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0042": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0043": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0044": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0045": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.0,
+  "explanation": "rule: billing"
+ },
+ "ACC-0046": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.0,
+  "explanation": "rule: billing"
+ },
+ "ACC-0047": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0048": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0049": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0050": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0051": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0052": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0053": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0054": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.0,
+  "explanation": "rule: billing"
+ },
+ "ACC-0055": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0056": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0057": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0058": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0059": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0060": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0061": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.0,
+  "explanation": "rule: billing"
+ },
+ "ACC-0062": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0063": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0064": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0065": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0066": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0067": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0068": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0069": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0070": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.0,
+  "explanation": "rule: billing"
+ },
+ "ACC-0071": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0072": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0073": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0074": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0075": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0076": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0077": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0078": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0079": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0080": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0081": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0082": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0083": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0084": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0085": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0086": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0087": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0088": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0089": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0090": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0091": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0092": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0093": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0094": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0095": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0096": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0097": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0098": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0099": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0100": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0101": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0102": {
+  "risk": "high",
+  "driver": "billing",
+  "action": "billing_followup",
+  "escalate_to_human": false,
+  "score": 1.0,
+  "explanation": "rule: billing"
+ },
+ "ACC-0103": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0104": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0105": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0106": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0107": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0108": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0109": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0110": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0111": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0112": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0113": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0114": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0115": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0116": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0117": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0118": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0119": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ },
+ "ACC-0120": {
+  "risk": "low",
+  "driver": "none",
+  "action": "no_action",
+  "escalate_to_human": false,
+  "score": 0.0,
+  "explanation": "rule: none"
+ }
+}

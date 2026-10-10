@@ -1,0 +1,24 @@
+NOTE E1_euclia seed 103: normalised 30 malformed account IDs (formatting only)
+hash check passed: evaluation accounts identical to those the agents saw
+
+system                        macro_f1   high_recall  high_precisi  precision@10    driver_acc  action_match  escalation_a   macroF1 95% CI
+B1_usage_only              0.326±0.01   0.279±0.03   0.583±0.02   1.000±0.00   0.506±0.02   0.450±0.05   0.708±0.05   [0.293,0.365]
+B2_billing_only            0.337±0.03   0.200±0.06   1.000±0.00   1.000±0.00   0.561±0.03   0.506±0.06   0.708±0.05   [0.303,0.375]
+B3_health_score            0.556±0.06   0.418±0.08   0.708±0.02   0.767±0.09   0.631±0.03   0.594±0.03   0.708±0.05   [0.499,0.613]
+B4_gb_structured           0.788±0.06   0.582±0.10   0.780±0.09   1.000±0.00   0.719±0.03   0.694±0.05   0.728±0.08   [0.749,0.827]
+B5_gb_structured_text      0.749±0.02   0.861±0.01   0.616±0.03   0.967±0.05   0.597±0.02   0.681±0.04   0.714±0.04   [0.711,0.789]
+L0_bare_llm                0.626±0.02   0.570±0.02   0.941±0.02   1.000±0.00   0.864±0.01   0.775±0.04   0.781±0.02   [0.581,0.674]
+E2_euclia_structured       0.528±0.02   0.418±0.07   0.832±0.06   0.967±0.05   0.592±0.01   0.489±0.04   0.600±0.03   [0.469,0.585]
+E1_euclia                  0.640±0.01   0.527±0.03   0.940±0.05   1.000±0.00   0.889±0.02   0.822±0.03   0.867±0.03   [0.590,0.691]
+
+Risk-level accuracy by archetype (pooled, 360 accounts)
+archetype                B1_usage_ B2_billin B3_health B4_gb_str B5_gb_str L0_bare_l E2_euclia E1_euclia
+billing_risk                  0.00      1.00      0.82      1.00      1.00      0.55      0.73      0.33
+champion_left                 0.00      0.00      0.00      0.33      0.62      0.00      0.00      0.00
+competitor_eval               0.00      0.00      0.00      0.13      0.65      0.29      0.00      0.32
+expansion_candidate           1.00      1.00      0.75      1.00      0.65      1.00      0.90      1.00
+frustrated_power_user         0.00      0.00      0.00      0.17      0.93      0.87      0.00      0.87
+healthy                       0.99      1.00      0.88      0.81      0.45      0.92      0.84      0.92
+onboarding_stalled            0.00      0.00      0.96      1.00      1.00      0.69      0.81      0.81
+seasonal_dip                  0.00      1.00      0.00      0.78      0.38      0.56      0.03      0.81
+silent_disengager             0.98      0.00      0.89      0.98      0.98      0.87      0.96      0.85

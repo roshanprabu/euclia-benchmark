@@ -1,0 +1,116 @@
+{
+ "overall": {
+  "B1_usage_only": {
+   "accuracy": 0.55,
+   "macro_f1": 0.3410511544839903,
+   "high_recall": 0.25,
+   "high_precision": 0.6363636363636364,
+   "precision@10": 1.0,
+   "ndcg": 0.9183640986687799,
+   "driver_acc": 0.55,
+   "action_match": 0.445,
+   "escalation_acc": 0.69
+  },
+  "B2_billing_only": {
+   "accuracy": 0.615,
+   "macro_f1": 0.37970289218006803,
+   "high_recall": 0.2619047619047619,
+   "high_precision": 1.0,
+   "precision@10": 1.0,
+   "ndcg": 0.9244637997974656,
+   "driver_acc": 0.615,
+   "action_match": 0.51,
+   "escalation_acc": 0.69
+  },
+  "B3_health_score": {
+   "accuracy": 0.67,
+   "macro_f1": 0.6062416711464828,
+   "high_recall": 0.4166666666666667,
+   "high_precision": 0.7608695652173914,
+   "precision@10": 0.9,
+   "ndcg": 0.9496894367236394,
+   "driver_acc": 0.75,
+   "action_match": 0.645,
+   "escalation_acc": 0.69
+  },
+  "E1_euclia": {
+   "accuracy": 0.85,
+   "macro_f1": 0.7587145969498911,
+   "high_recall": 0.6904761904761905,
+   "high_precision": 0.9666666666666667,
+   "precision@10": 1.0,
+   "ndcg": 0.9942132097322929,
+   "driver_acc": 0.96,
+   "action_match": 0.915,
+   "escalation_acc": 0.925
+  },
+  "E2_euclia_structured": {
+   "accuracy": 0.635,
+   "macro_f1": 0.5655467339677865,
+   "high_recall": 0.42857142857142855,
+   "high_precision": 0.8571428571428571,
+   "precision@10": 1.0,
+   "ndcg": 0.959536874951283,
+   "driver_acc": 0.66,
+   "action_match": 0.52,
+   "escalation_acc": 0.605
+  }
+ },
+ "by_archetype": {
+  "B1_usage_only": {
+   "billing_risk": 0.0,
+   "champion_left": 0.0,
+   "competitor_eval": 0.0,
+   "expansion_candidate": 1.0,
+   "frustrated_power_user": 0.0,
+   "healthy": 1.0,
+   "onboarding_stalled": 0.0,
+   "seasonal_dip": 0.0,
+   "silent_disengager": 1.0
+  },
+  "B2_billing_only": {
+   "billing_risk": 1.0,
+   "champion_left": 0.0,
+   "competitor_eval": 0.0,
+   "expansion_candidate": 1.0,
+   "frustrated_power_user": 0.0,
+   "healthy": 1.0,
+   "onboarding_stalled": 0.0,
+   "seasonal_dip": 1.0,
+   "silent_disengager": 0.0
+  },
+  "B3_health_score": {
+   "billing_risk": 0.6818181818181818,
+   "champion_left": 0.0,
+   "competitor_eval": 0.0,
+   "expansion_candidate": 1.0,
+   "frustrated_power_user": 0.0,
+   "healthy": 0.9411764705882353,
+   "onboarding_stalled": 0.9333333333333333,
+   "seasonal_dip": 0.0,
+   "silent_disengager": 0.9523809523809523
+  },
+  "E1_euclia": {
+   "billing_risk": 0.5909090909090909,
+   "champion_left": 0.2727272727272727,
+   "competitor_eval": 0.5,
+   "expansion_candidate": 1.0,
+   "frustrated_power_user": 1.0,
+   "healthy": 0.9705882352941176,
+   "onboarding_stalled": 0.8666666666666667,
+   "seasonal_dip": 1.0,
+   "silent_disengager": 0.9523809523809523
+  },
+  "E2_euclia_structured": {
+   "billing_risk": 0.6363636363636364,
+   "champion_left": 0.0,
+   "competitor_eval": 0.125,
+   "expansion_candidate": 0.9523809523809523,
+   "frustrated_power_user": 0.0,
+   "healthy": 0.7941176470588235,
+   "onboarding_stalled": 0.8,
+   "seasonal_dip": 0.4166666666666667,
+   "silent_disengager": 0.9523809523809523
+  }
+ }
+}
